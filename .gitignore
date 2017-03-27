@@ -35,3 +35,10 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+src/*.js
+src/*.map
+src/*.metadata.json
+src/*.ngsummary.json
+src/*.d.ts
+src/*.ngfactory.ts
